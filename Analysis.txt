@@ -1,0 +1,5 @@
+Observations:
+
+1) It is clear that in schools no larger than 2000 students, average test scores and the passing rates of test scores are much higher than those exceeding student populations of 2000.
+2) Charter Schools seem to have higher average test scores and higher passing rates than district schools. The widest margin between the two types of schools being with math scores.
+3) Strangely, the lower the spending per student rates are, the higher the average test scores and % passing rates among schools.
